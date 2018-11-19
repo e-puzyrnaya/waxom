@@ -40,7 +40,7 @@ body, html {
     transition: transform ease-in-out .5s, opacity ease-in-out .5s;
 }
 
-.slide1 { background-image: url(../images/bg-photo.png);}
+.slide1 { background-image: url(../images/bg-photo.jpg);}
 .slide2 { background-image: linear-gradient(45deg, rgba(36,40,43, .6), rgba(30,17,28, .5)), url(../images/1.jpg); }
 .slide3 { background-image: linear-gradient(45deg, rgba(36,40,43, .6), rgba(30,17,28, .5)), url(../images/2.jpg); }
 .slide4 { background-image: linear-gradient(45deg, rgba(36,40,43, .6), rgba(30,17,28, .5)), url(../images/3.jpg); }
